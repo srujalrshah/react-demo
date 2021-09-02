@@ -16,7 +16,7 @@ import "../pattern-components/patterns.scss";
 
 class UIShellBody extends Component {
   components = {
-    "Display Form": DisplayForm,
+    "Display Form UPDATED": DisplayForm,
     "Validating Form": ValidatingForm,
     "Update Form": UpdateForm,
     "Validating Form Wizard 1": ValidatingFormWizard1,
